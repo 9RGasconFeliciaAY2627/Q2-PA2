@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(162, 220, 235);
+}
+
+.row {
+    gap: 5px;
+    justify-content: center;
+}
+
